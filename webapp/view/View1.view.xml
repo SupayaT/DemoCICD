@@ -9,7 +9,7 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<content>
-                     <Text text="Test4"/>
+                     <Text text="Test5"/>
                     </content>
 				</Page>
 			</pages>
